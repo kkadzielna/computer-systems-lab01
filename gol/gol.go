@@ -1,6 +1,9 @@
 package main
 
 func calculateNextState(p golParams, world [][]byte) [][]byte {
+	for x, y := range world {
+		
+	}
 	return world
 }
 
